@@ -1,2 +1,3 @@
 # mtm6330-Week3
-demo
+Golp demo
+Sebastien Lamarche 020
